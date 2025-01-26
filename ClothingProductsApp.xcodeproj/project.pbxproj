@@ -13,6 +13,8 @@
 		77EECE892D45D8730049BC6E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 77EECE882D45D8730049BC6E /* Preview Assets.xcassets */; };
 		77EECE8B2D45D8730049BC6E /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77EECE8A2D45D8730049BC6E /* Persistence.swift */; };
 		77EECE8E2D45D8730049BC6E /* ClothingProductsApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 77EECE8C2D45D8730049BC6E /* ClothingProductsApp.xcdatamodeld */; };
+		77EECE952D45DBDF0049BC6E /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77EECE942D45DBDF0049BC6E /* LoginView.swift */; };
+		77EECE972D45DF930049BC6E /* ProductsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77EECE962D45DF930049BC6E /* ProductsListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +25,8 @@
 		77EECE882D45D8730049BC6E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		77EECE8A2D45D8730049BC6E /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		77EECE8D2D45D8730049BC6E /* ClothingProductsApp.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ClothingProductsApp.xcdatamodel; sourceTree = "<group>"; };
+		77EECE942D45DBDF0049BC6E /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		77EECE962D45DF930049BC6E /* ProductsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductsListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				77EECE8A2D45D8730049BC6E /* Persistence.swift */,
 				77EECE8C2D45D8730049BC6E /* ClothingProductsApp.xcdatamodeld */,
 				77EECE872D45D8730049BC6E /* Preview Content */,
+				77EECE942D45DBDF0049BC6E /* LoginView.swift */,
+				77EECE962D45DF930049BC6E /* ProductsListView.swift */,
 			);
 			path = ClothingProductsApp;
 			sourceTree = "<group>";
@@ -145,7 +151,9 @@
 			files = (
 				77EECE8B2D45D8730049BC6E /* Persistence.swift in Sources */,
 				77EECE842D45D86D0049BC6E /* ContentView.swift in Sources */,
+				77EECE972D45DF930049BC6E /* ProductsListView.swift in Sources */,
 				77EECE8E2D45D8730049BC6E /* ClothingProductsApp.xcdatamodeld in Sources */,
+				77EECE952D45DBDF0049BC6E /* LoginView.swift in Sources */,
 				77EECE822D45D86D0049BC6E /* ClothingProductsAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
